@@ -28,8 +28,10 @@ ou
 
 *3. Créez un autre projet avec [Guppy](https://github.com/joshwcomeau/guppy). Quelle méthode préférez-vous ?*
 
+La ligne de commande
 
 *4. Modifiez le projet React nouvellement créer pour supprimer le contenu actuel de l'application*
+
 Il suffit d'ouvrir le fichier App.js dans app_name/src et de supprimer tout ce qui se trouve à l'interieur de la div racine
 
 *5. Créez un nouveau composant avec votre liste de cadeau pour le Père Noel.*
